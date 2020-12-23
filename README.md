@@ -22,8 +22,8 @@ The following python packages will be required to run this notebook on your mach
 
 # Notebook Table of Contents
 
-1. [Data Cleaning and Geographic Visualizations]()
-2. [Exploratory Data Analysis and Modeling]()
+1. [Data Cleaning and Geographic Visualizations](https://github.com/gabecano4308/San-Francisco-Crime-Predictor/blob/main/1_clean_geoviz.ipynb)
+2. [Exploratory Data Analysis and Modeling](https://github.com/gabecano4308/San-Francisco-Crime-Predictor/blob/main/2_eda_model.ipynb)
 
 ---
 
