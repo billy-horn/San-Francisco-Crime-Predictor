@@ -4,7 +4,8 @@ As part of the public outcry to defund the police and dismantle and restructure 
 Based on the specific features of a crime, we endeavor to predict which type of intervention is needed for a particular crime to better allocate resources in addressing them.
 
 ---
-
+## Contributions:
+This project is a collaboration of Nelli Aydinyan, Jessica Bow, Gabrial Cano & Billy Horn
 # Software Requirements
 The following python packages will be required to run this notebook on your machine:
 - Pandas
